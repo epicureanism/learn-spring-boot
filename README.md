@@ -1,2 +1,3 @@
-# learn-spring-boot
-my notes of learning Spring Boot
+# Learning Goal
+The minimum items of using Spring Boot.
+
