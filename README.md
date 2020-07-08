@@ -2,8 +2,8 @@
 The minimum config to use Spring Boot.
 
 # What is Spring Boot
- - Spring Boot is a project that is built on the top of the <mark>Spring Framework</mark>. It provides an easier and <mark>faster way to set up, configure, and run</mark> both simple and web-based applications.
- - It is a Spring module that provides the <b>RAD (Rapid Application Development)</b> feature to the Spring Framework. It is used to create a stand-alone Spring-based application that you can just run because it needs minimal Spring configuration.
+> - Spring Boot is a project that is built on the top of the <mark>Spring Framework</mark>. It provides an easier and <mark>faster way to set up, configure, and run</mark> both simple and web-based applications.
+> - It is a Spring module that provides the <b>RAD (Rapid Application Development)</b> feature to the Spring Framework. It is used to create a stand-alone Spring-based application that you can just run because it needs minimal Spring configuration.
 
 # Why Spring Boot?
 > - The <b>dependency injection</b> approach is used in Spring Boot.
